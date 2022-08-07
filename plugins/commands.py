@@ -18,7 +18,7 @@ async def start(client, message):
         InlineKeyboardButton(' Support Group', url='https://t.me/malik_support_group'),
         InlineKeyboardButton('Update Channel', url='https://t.me/m_house786')
         ],[
-        InlineKeyboardButton('❤️ Source', url='https://github.com/Jijinr/Frwdit-V2'),
+        InlineKeyboardButton('❤️ Source', url='https://github.com/Sahidmalik001/Forward-V2'),
         InlineKeyboardButton('String Session', url ='https://replit.com/@JijinR/PyroSessionString?v=1')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,7 +49,7 @@ async def help(client, message):
 @Client.on_message(filters.private & filters.command(['about']))
 async def about(client, message):
     buttons = [[
-        InlineKeyboardButton('❤️ Source', url='https://github.com/Jijinr/Frwdit-V2'),
+        InlineKeyboardButton('❤️ Source', url='https://github.com/Sahidmalik001/Forward-V2'),
         InlineKeyboardButton('close 🔐', callback_data='close_btn')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
