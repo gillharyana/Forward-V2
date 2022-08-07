@@ -57,7 +57,3 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-### Credits
-
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
