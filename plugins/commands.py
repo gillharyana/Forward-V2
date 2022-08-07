@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @DarkzzAngel
+# (c) sahid malik
 
 import os
 import sys
