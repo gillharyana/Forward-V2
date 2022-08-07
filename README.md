@@ -6,7 +6,7 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository then give star
 Made with Python3 and Pyrogram Library
-(C) @DarkzzAngel
+(C) sahid malik
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
@@ -36,7 +36,7 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/malik7983/Frwdit-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sahidmalik001/Forward-V2)
 
 ### Deploying on Railway:
 
