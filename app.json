@@ -36,7 +36,7 @@
     "FILTER_TYPE": {
       "description": "Type Of filters (document , audio , photo , video , animation)",
       "value": "document"
-    },
+    }
   },
   "formation": {
     "worker": {
