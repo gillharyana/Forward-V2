@@ -34,6 +34,10 @@
     "FILTER_TYPE": {
       "description": "Type Of filters (document , audio , photo , video , animation)",
       "value": "document"
+    },
+    "SESSION": {
+      "description": "Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",
+      "value": ""
     }
   },
   "formation": {
